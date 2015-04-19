@@ -1,4 +1,3 @@
-git branch unknown
+
+git branch -f master temp
 git checkout master
-git merge unknown
-git branch unknown
