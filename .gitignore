@@ -3,3 +3,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/jaykim0723/codeigniter.git
 git push -u origin master
+git checkout master
