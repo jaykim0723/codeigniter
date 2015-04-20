@@ -1,3 +1,0 @@
-
-git branch -f master temp
-git checkout master
